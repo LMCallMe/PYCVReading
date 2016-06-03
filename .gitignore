@@ -1,0 +1,6 @@
+﻿#临时文件
+*~
+
+*.py[cod]
++.ipynb_checkpoints
+.ipynb_checkpoints
